@@ -1,4 +1,4 @@
-# Contributing to PromptForge
+# Contributing to Promptster
 
 Thanks for your interest in contributing to PromptForge!  
 This project is built for the community, and contributions of all kinds are welcome — bug reports, feature requests, documentation improvements, and code contributions.
