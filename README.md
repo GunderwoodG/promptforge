@@ -1,14 +1,14 @@
 # 🔥 Promptster
 A powerful Chrome extension that lets you instantly insert reusable prompt templates into AI chat editors across ChatGPT, Claude, Gemini, and Perplexity.
 
-PromptForge helps you work faster by turning your best prompts into reusable snippets — complete with placeholder navigation, multi‑site support, and a clean dropdown UI triggered directly inside the editor.
+Promptster helps you work faster by turning your best prompts into reusable snippets — complete with placeholder navigation, multi‑site support, and a clean dropdown UI triggered directly inside the editor.
 
 ---
 
 ## ✨ Features
 
 ### 🧩 Multi‑Site Support
-PromptForge works seamlessly across:
+Promptster works seamlessly across:
 - ChatGPT (chat.openai.com, chatgpt.com)
 - Claude (claude.ai)
 - Gemini (gemini.google.com)
@@ -73,7 +73,7 @@ Click the ✏️ icon in the dropdown to:
 ## 🚀 Installation
 
 ### From the Chrome Web Store
-**[Install PromptForge →](https://promptsters.vercel.app/)**  
+**[Install Promptster →](https://promptsters.vercel.app/)**  
 
 ### From Source (Developer Mode)
 1. Clone this repo  
@@ -154,7 +154,7 @@ See the full guide here:
 
 ## 📄 Privacy
 
-PromptForge does **not** collect personal data.  
+Promptster does **not** collect personal data.  
 All snippets are stored locally using `chrome.storage.sync`.
 
 Full policy:  
@@ -164,7 +164,7 @@ Full policy:
 
 ## ❤️ Support the Project
 
-If you find PromptForge useful, consider supporting development:
+If you find Promptster useful, consider supporting development:
 
 - Patreon  
 - Venmo  
@@ -198,4 +198,4 @@ MIT License — free to use, modify, and distribute.
 
 ## 🔥 Built for creators, writers, developers, and anyone who works with AI.
 
-PromptForge helps you work faster, stay organized, and turn your best prompts into reusable tools.
+Promptster helps you work faster, stay organized, and turn your best prompts into reusable tools.
